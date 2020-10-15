@@ -1,11 +1,11 @@
 #tulisan{
-	color: 10px;
+	color: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
 }
 .box{
 	background: blue;
 	padding: 10px;
-}
-p {
-    font-family: serif;
-    line-height: 1.75em;
+	margin-left: 10px;
+	margin-right:10px;
 }
